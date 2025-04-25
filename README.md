@@ -1,5 +1,7 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEzqDAWQAOeMQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZsQTCCGcAk-/0/1745572939737?e=1750896000&v=beta&t=28VOfoUCEvNIGPTDkz6SRM8Xfsm6LpwARdaq_6ZY90A)]
 <h1 align="center">Hi 👋, I'm Surya Annadurai</h1>
 <h3 align="center">A passionate full stack(MERN) developer from India</h3>
+<img align="right" width=400 src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" alt="surya-annadurai-10" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-annadurai-10&label=Profile%20views&color=0e75b6&style=flat" alt="surya-annadurai-10" /> </p>
 
