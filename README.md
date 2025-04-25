@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-annadurai-10&label=Profile%20views&color=0e75b6&style=flat" alt="surya-annadurai-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-annadurai-10" alt="surya-annadurai-10" /></a> </p>
-<img align="right" width=400 src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" alt="surya-annadurai-10" />
+<img align="right" width=400 src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="surya-annadurai-10" />
 
 - 🔭 I’m currently working on **Ecommerce using MERN**
 
