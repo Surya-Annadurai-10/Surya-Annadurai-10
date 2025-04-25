@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-annadurai-10&label=Profile%20views&color=0e75b6&style=flat" alt="surya-annadurai-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-annadurai-10" alt="surya-annadurai-10" /></a> </p>
+<img align="right" width=400 src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" alt="surya-annadurai-10" />
 
 - 🔭 I’m currently working on **Ecommerce using MERN**
 
@@ -18,7 +19,6 @@
 - 📫 How to reach me **hellosuryaannadurai@gmail.com**
 
 - ⚡ Fun fact **Interviewer: What's your biggest strength? Me: I’m very fast at math. Interviewer: What’s 14 × 27? Me: 63. Interviewer: That’s not even close. Me: Yeah, but it was fast.**
-<img align="right" width=400 src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" alt="surya-annadurai-10" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/surya-annadurai-519335290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya annadurai" height="30" width="40" /></a>
