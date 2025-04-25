@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/surya annadurai](https://www.linkedin.com/in/surya-annadurai-519335290/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxWbdHjVESS6l5iEsikzz0w%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya annadurai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surya-annadurai-519335290/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxWbdHjVESS6l5iEsikzz0w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya annadurai" height="30" width="40" /></a>
 <a href="https://instagram.com/___surya___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___surya___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surya_annadurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surya_annadurai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suryaannadu33zc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryaannadu33zc" height="30" width="40" /></a>
