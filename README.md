@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-annadurai-10&label=Profile%20views&color=0e75b6&style=flat" alt="surya-annadurai-10" /> </p>
 
 
-<img align="right" width=400 src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" alt="surya-annadurai-10" />
+<img align="right" border-radius=20 width=400 src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" alt="surya-annadurai-10" />
 
-- 🔭 I’m currently working on **Ecommerce using MERN**
+- 🔭 I’m currently working on **Ecommerce Project using MERN**
 
 - 🌱 I’m currently learning **Node mongodb express**
 
