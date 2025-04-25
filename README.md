@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node mongodb express**
 
-- 👨‍💻 All of my projects are available at [https://surya-annadurai.vercel.app/](https://surya-annadurai.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://surya-annadurai.vercel.app/)
 
 - 💬 Ask me about **HTML CSS Javascript TailwindCSS React Firebase GSAP Framer Motion**
 
