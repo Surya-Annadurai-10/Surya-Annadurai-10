@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-annadurai-10&label=Profile%20views&color=0e75b6&style=flat" alt="surya-annadurai-10" /> </p>
 
 
-<img align="right" border-radius=20 width=300 src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" alt="surya-annadurai-10" />
+<img align="right" border-radius=20 width=400 z-index=100 src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" alt="surya-annadurai-10" />
 
 
 
