@@ -8,7 +8,7 @@
 <img align="right" border-radius=20 width=400 src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" alt="surya-annadurai-10" />
 
 
---------------------------
+
 
 # 💫 About Me:<br>
 🔭 I’m currently working on **Ecommerce Project using MERN**<br>🌱 I’m currently learning **Nodejs**<br>👨‍💻 All of my projects are available at [My Portfolio](https://surya-annadurai.vercel.app/)<br>💬 Ask me about **Frontend**<br>📫 How to reach me **hellosuryaannadurai@gmail.com**<br>⚡ Fun fact **Interviewer: What's your biggest strength? Me: I’m very fast at math. Interviewer: What’s 14 × 27? Me: 63. Interviewer: That’s not even close. Me: Yeah, but it was fast.**
@@ -24,6 +24,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Surya-Annadurai-10&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Annadurai-10&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Surya-Annadurai-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
